@@ -1,0 +1,10 @@
+.clients-dotted {
+    height: 2px;
+    width: 100%;
+    border-bottom: 1px dotted grey;
+}
+
+.clients-text {
+    font-size: 1.5rem;
+    color: black;
+}
