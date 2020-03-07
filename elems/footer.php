@@ -8,8 +8,8 @@
                     </span>
                 </div>
                 <div class="ml-auto">
-                    <img src="img/footer/social/fb.png" class="mr-3">
-                    <img src="img/footer/social/tw.png">
+                    <a href="#"><img src="img/footer/social/fb.png" class="mr-3"></a>
+                    <a href="#"><img src="img/footer/social/tw.png"></a>
                 </div>
             </div>
         </div>
