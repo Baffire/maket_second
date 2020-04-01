@@ -20,21 +20,18 @@
                     <a class="nav-link" href="#">
                         <img class="mr-1" src="img/header/navbar/person.png" width="16px;" height="14px;">
                         About Us
-                        <span class="sr-only">(current)</span>
                     </a>
                 </li>
                 <li class="nav-item mr-4">
                     <a class="nav-link" href="#">
                         <img class="mr-1" src="img/header/navbar/services.png" width="16px;" height="16px;">
                         Services
-                        <span class="sr-only">(current)</span>
                     </a>
                 </li>
                 <li class="nav-item mr-4">
                     <a class="nav-link" href="#">
                         <img class="mr-1" src="img/header/navbar/contact.png" width="16px;">
                         Contact Us
-                        <span class="sr-only">(current)</span>
                     </a>
                 </li>
             </ul>

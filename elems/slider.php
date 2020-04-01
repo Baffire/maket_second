@@ -8,6 +8,12 @@
                     <h2>A minimal Web Design</h2>
                 </div>
             </div>
+            <div class="carousel-item">
+                <img src="img/slider/back2.jpg" class="d-block w-100" alt="image with plants">
+            </div>
+            <div class="carousel-item">
+                <img src="img/slider/back3.jpg" class="d-block w-100" alt="image with plants">
+            </div>
         </div>
         <!-- Элементы управления -->
         <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
